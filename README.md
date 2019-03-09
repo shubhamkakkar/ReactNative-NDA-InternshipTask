@@ -5,7 +5,7 @@ These screenshorts belong to an android application I developed for a startup co
 
 #Home page - After Authentication
 
-<img src="ss/ssHome.jpg" height="700" width="400" />
+<img src="ss/Screenshot_2019-03-10-00-12-50-600_com.nsit.png" height="700" width="400" />
 
 #AboutUs page - After Authentication
 
