@@ -26,7 +26,6 @@ These screenshorts belong to an android application I developed for a startup co
 
 #FoodCards
 <img src="ss/Screenshot_2019-03-10-00-13-33-275_com.nsit.png" height="700" width="400" />
-<br />
 <img src="ss/Screenshot_2019-03-10-00-13-36-934_com.nsit.png" height="700" width="400" />
 
 #Privacy Policy Page
@@ -43,4 +42,5 @@ These screenshorts belong to an android application I developed for a startup co
 <img src="ss/Screenshot_2019-03-10-00-13-51-282_com.nsit.png" height="700" width="400" />
 
 #misc
+
 <img src="ss/Screenshot_2019-01-06-16-20-48-661_com.nsit.png" height="700" width="400" />
