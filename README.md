@@ -22,12 +22,12 @@ These screenshorts belong to an android application I developed for a startup co
 
 #Profile
 
-<img src="ss/Screenshot_2019-03-10-00-13-28-610_com.nsit.png" height="700" width="700" />
+<img src="ss/Screenshot_2019-03-10-00-13-28-610_com.nsit.png" height="700" width="400" />
 
 #FoodCards
-<img src="ss/Screenshot_2019-03-10-00-13-33-275_com.nsit.png" height="700" width="700" />
+<img src="ss/Screenshot_2019-03-10-00-13-33-275_com.nsit.png" height="700" width="400" />
 <br />
-<img src="ss/Screenshot_2019-03-10-00-13-36-934_com.nsit.png" height="700" width="700" />
+<img src="ss/Screenshot_2019-03-10-00-13-36-934_com.nsit.png" height="700" width="400" />
 
 #Privacy Policy Page
 
